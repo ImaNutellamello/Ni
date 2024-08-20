@@ -61,15 +61,19 @@ But what about lower dimensions than 'n-1'?
 The ratio of 'n' with 'n-1', 'n-2', 'n-3', etc. are all $\frac{1}{0}$
 
 So, to understand that better we can use the following approach:
+
 $$
 \frac{1}{y} = \frac{magnitude  'n'}{magnitude  'n-1'}, y →0
 $$
+
 $$
 \frac{1}{y•y} = \frac{magnitude  'n'}{magnitude  'n-2'}, y →0
 $$
+
 that can be verified using similar concept in "<u>**Equation 1**</u>" used before
 
 Therefore:
+
 $$
 \frac{c}{y^x} = \frac{magnitude  'n'}{magnitude  'n-x'}, y →0
 $$
